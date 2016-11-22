@@ -1,0 +1,22 @@
+{
+    "name": "aykentech/data-tables-php",
+    "description": "DataTablesPHP inital package",
+    "type": "library",
+    "require": {
+        "illuminate/database": "5.3.*",
+		"php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aykentech",
+            "email": "admin@sarpaykent.com"
+        }
+    ],
+    "minimum-stability": "dev"
+    "autoload": {
+        "psr-0": {
+            "Aykentech": "src/"
+        }
+    }
+}
