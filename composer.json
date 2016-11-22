@@ -1,5 +1,5 @@
 {
-    "name": "aykentech/data-tables-php",
+    "name": "Aykentech/DataTablesPHP",
     "description": "DataTablesPHP inital package",
     "type": "library",
     "require": {
